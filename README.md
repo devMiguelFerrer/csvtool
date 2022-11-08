@@ -1,6 +1,16 @@
 # CSV TOOL
 Tools to csv file in go language
 
+## Installation
+1. You can use the below Go command to install Gin.
+```go
+go get -u github.com/devMiguelFerrer/csvtool
+```
+2. Import it in your code:
+```go
+import "github.com/devMiguelFerrer/csvtool"
+```
+
 ## Features
 ```go
 // function to create new csv tool
